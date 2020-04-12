@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{183:function(t,n,e){"use strict";e.r(n);var s={metaInfo:{title:"Projects"}},o=e(19),i=Object(o.a)(s,(function(){var t=this.$createElement,n=this._self._c||t;return n("Layout",[n("h1",[this._v("🚧🚧🚧🚧🚧🚧")]),n("p",[this._v("Under Construction")])])}),[],!1,null,null,null);n.default=i.exports}}]);
